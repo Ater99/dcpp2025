@@ -1,8 +1,9 @@
 ---
-student_name: [Replace with first_name and last_name]
-topic: [replace with topic]
+student_name:Jeremiah Madhol Ater
+topic: Open Source for Climate Adaptation in the Global South
 ---
-# Title of your essay
+# How Digital Commons Can Help Governments Innovate Without Dependence on Big Tech
+
 Your content goes here. Please use [markdown](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for formating.
 Something in **bold**.
 
